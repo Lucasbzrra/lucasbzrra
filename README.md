@@ -1,10 +1,10 @@
 ### Olá! Meu Nome é Lucas Alves
 
-Atualmente trabalhando como N1 Suporte Técnico.
+  Atualmente trabalhando como N1 Suporte Técnico.
 
-Estudando Cursos voltados para ser tornar Adminstrador de banco de dados.
+  Estudando Cursos voltados para ser tornar Adminstrador de banco de dados.
 
-Cursando Barcharelado em Sistemas da Informação.
+  Cursando Barcharelado em Sistemas da Informação.
 
 
 <div align="center">
