@@ -2,7 +2,7 @@
 
   Atualmente trabalhando como N1 Suporte Técnico.
 
-  Estudando Cursos voltados para ser tornar Adminstrador de banco de dados.
+  
 
   Cursando Barcharelado em Sistemas da Informação.
 
