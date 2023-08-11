@@ -4,7 +4,7 @@
 
   
 
-  Cursando Barcharelado em Sistemas da Informação.
+  Barcharelado em Sistemas da Informação.
 
 
 <div align="center">
