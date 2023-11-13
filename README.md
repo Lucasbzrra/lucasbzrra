@@ -1,8 +1,5 @@
 ### Olá! Meu Nome é Lucas Alves
 
-  Atualmente trabalhando como N1 Suporte Técnico.
-
-  
 
   Barcharelado em Sistemas da Informação.
 
